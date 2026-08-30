@@ -172,6 +172,8 @@ Incorrect chamber bolting then converts the overpressure into structural failure
 
 The first Australian test-site explosion — the smallest one — is a hard start on video. Watch it as a case. Not an anecdote.
 
+A mole within his organisation sent this. Current whereabouts unknown.
+
 https://www.youtube.com/watch?v=SOUKZG-QOpA
 
 Two larger events followed. The method did not change.
