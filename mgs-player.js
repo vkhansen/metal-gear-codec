@@ -50,7 +50,12 @@
 			// show first note
 			notes.eq(0).show();
 
-			self.on('click', triggerClick);
+			self.on('click', function(e){
+				if ($(e.target).closest('a').length) {
+					return;
+				}
+				triggerClick();
+			});
 
 			setTimeout(function(){
 				setInterval(animateCodecBar, opts.interval_speed);

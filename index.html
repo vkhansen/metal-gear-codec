@@ -114,10 +114,60 @@
     left: 239px;
   }
   a {
-    color: #30544F;
+    color: #A6D7B2;
   }
   a:hover {
+    color: #fff;
+  }
+  #mgs-codec .transcription a {
     color: #A6D7B2;
+    text-decoration: none;
+    border-bottom: 1px dotted #30544F;
+  }
+  #mgs-codec .transcription a:hover {
+    color: #fff;
+    border-bottom-color: #A6D7B2;
+  }
+  #datalink {
+    width: 702px;
+    margin: 0.75em auto 0;
+    border: 1px solid #A6D7B2;
+    color: #A6D7B2;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    padding: 0.85em 1.1em;
+    box-sizing: border-box;
+  }
+  #datalink .hdr {
+    color: #fff;
+    margin-bottom: 0.65em;
+    white-space: pre;
+  }
+  #datalink ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  #datalink li {
+    margin: 0.4em 0;
+  }
+  #datalink a {
+    color: #A6D7B2;
+    text-decoration: none;
+    border-bottom: 1px dotted #30544F;
+  }
+  #datalink a:hover {
+    color: #fff;
+    border-bottom-color: #A6D7B2;
+  }
+  #datalink .tag {
+    display: inline-block;
+    border: 1px solid #30544F;
+    color: #A6D7B2;
+    padding: 0 0.35em;
+    margin-right: 0.45em;
+    font-size: 10px;
   }
   #notes {
     width: 65%;
@@ -183,8 +233,8 @@ STATUS: CONNECTED</p>
         <p><strong>Jeerasak:</strong> You&#x27;re thinking of Scaled Composites.</p>
         <p><strong>Big Boss:</strong> 26 July 2007. Mojave. An N₂O run-tank explosion. Three people dead.</p>
         <p><strong>Big Boss:</strong> The papers I&#x27;m sending you exist because of that accident. Minimum technical baseline. They have not been applied.</p>
-        <p><strong>Big Boss:</strong> Karabeyoglu, Dyer, Stevens and Cantwell. <em>Modeling of N₂O Decomposition Events.</em> AIAA 2008-4933.</p>
-        <p><strong>Big Boss:</strong> Scaled Composites. <em>Safety Guidelines for N₂O.</em> 17 June 2009.</p>
+        <p><strong>Big Boss:</strong> Karabeyoglu, Dyer, Stevens and Cantwell. <a href="papers/AIAA-2008-4933-N2O-Decomposition-Events.pdf" download><em>Modeling of N₂O Decomposition Events.</em> AIAA 2008-4933.</a></p>
+        <p><strong>Big Boss:</strong> Scaled Composites. <a href="papers/N2O-Safety-Guidelines.pdf" download><em>Safety Guidelines for N₂O.</em> 17 June 2009.</a></p>
         <p><strong>Big Boss:</strong> Copies accompany this call. They are not optional reading.</p>
         <p><strong>Jeerasak:</strong> What have you actually seen on the stand?</p>
         <p><strong>Big Boss:</strong> Documented deficiencies. Without limitation.</p>
@@ -361,8 +411,17 @@ FREQ. 120.85
 CALL TERMINATED</p>
       </div>
     </div>
+    <div id="datalink">
+      <div class="hdr">CODEC  //  DATA LINK
+FREQ. 120.85  //  TRANSMISSION ATTACHED
+STATUS: READY</div>
+      <ul>
+        <li><span class="tag">PDF</span><a href="papers/AIAA-2008-4933-N2O-Decomposition-Events.pdf" download>Karabeyoglu, Dyer, Stevens and Cantwell — Modeling of N₂O Decomposition Events (AIAA 2008-4933)</a></li>
+        <li><span class="tag">PDF</span><a href="papers/N2O-Safety-Guidelines.pdf" download>Scaled Composites — Safety Guidelines for N₂O (17 June 2009)</a></li>
+      </ul>
+    </div>
     <div id="notes">
-      <small>^ click to advance dialogue.</small>
+      <small>^ click codec to advance dialogue. Download papers from DATA LINK.</small>
       <audio>
         <source src="codec.mp3" type="audio/mpeg">
       </audio>
