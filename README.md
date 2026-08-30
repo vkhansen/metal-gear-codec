@@ -3,7 +3,7 @@ metal-gear-codec
 
 A simple implementation of the Metal Gear Solid codec, in SVG and JS.
 
-**Demo:** http://christabor.github.io/metal-gear-codec/
+**Demo:** https://vkhansen.github.io/metal-gear-codec/
 
 Codec face boxes are **140×180 px, 7:9 JPEG**. Crop portraits with `scripts/crop-codec-avatars.ps1`. Full steps: `avatars/RUNBOOK.md`.
 
