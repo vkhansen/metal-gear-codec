@@ -200,6 +200,12 @@ The oxidiser is not the problem.
 
 The handling is.
 
+That catalogue is not complete. It is a sample. Safety. Procedure. Configuration.
+
+Jamie invents the rest. Failure modes we have not conceived. Fuck-ups that do not yet have a name in the literature.
+
+He is, in that respect, a skilled inventor.
+
 **JEERASAK**
 This is not new material to ISE.
 
