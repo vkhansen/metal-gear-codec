@@ -26,7 +26,21 @@ This isn't a social call. It's a briefing. Safety and procedure only. ISE. Your 
 ESS. Jamie Anderson.
 
 **BIG BOSS**
-Correct. Set aside any prior disagreement with me. Examine the record. Look at the hardware. The facts do not depend on who delivers them.
+The man using that name. Origin unknown. We ran the file. We have not confirmed it is even his legal name.
+
+**JEERASAK**
+His credentials—
+
+**BIG BOSS**
+Do not exist. Not as a propulsion engineer. Not as a CEO. The only document that surfaces is a community college degree. That is not a qualification to command Equatorial Space Systems, or to stand students next to an oxidiser load.
+
+A ghost with a title. Treat him as one.
+
+**JEERASAK**
+Then who is he.
+
+**BIG BOSS**
+Unverified. That is the briefing. Set aside any prior disagreement with me. Examine the record. Look at the hardware. The facts do not depend on who delivers them.
 
 **JEERASAK**
 I'm listening.
@@ -196,7 +210,7 @@ A genuine propulsion programme, after destroying three stands, would stop. Perfo
 
 ESS has done none of that. It has repeated the same practices and changed geography.
 
-The safety failures are not separable from the rest of the record. Credentials do not check. Experience claims do not match contemporary documents. Hardware has not advanced beyond amateur scale. The commercial pitch continues. After scrutiny, the operation moves.
+The safety failures are not separable from the rest of the record. Credentials do not check. We cannot confirm the name, the origin, or any of the experience claims. What exists is a community college degree — not the record of a man fit to be CEO of a propulsion company. Hardware has not advanced beyond amateur scale. The commercial pitch continues. After scrutiny, the operation moves.
 
 That is the behaviour of an organisation protecting a false technical premise. Not of one correcting a root cause.
 
@@ -302,7 +316,7 @@ I do not care what you then do. You have been warned. The students have been war
 
 It is better to start from a clean sheet. Open research. First principles. MTR-traceable hardware. A drawing that is actually built. That is slower in the brochure and faster in the lab. It is not slower than rebuilding a test site. It is not slower than a funeral.
 
-Do not take a known charlatan as your skipper — a man substituting shop-floor folklore for analysis, and untraceable hardware-store parts for a released design.
+Do not take a known charlatan as your skipper — a man of unknown origin, unverified name, and a community college diploma, substituting shop-floor folklore for analysis, and untraceable hardware-store parts for a released design.
 
 **JEERASAK**
 ...Understood. I'll look at the papers. And the stand.
@@ -310,7 +324,7 @@ Do not take a known charlatan as your skipper — a man substituting shop-floor 
 **BIG BOSS**
 Independent inspection of the oxidiser hardware, cleanliness, and as-built versus drawings. Written confirmation that ISE students will not participate in ESS load or test. Review of AIAA 2008-4933 and the Scaled N₂O guidelines against the actual setup. Record of the three destroyed stands. No further institutional association until that is complete.
 
-A parallel notice has gone to GISTDA on credentials, experience, and technical competence. This call is limited to ISE's safety and procedural exposure.
+A parallel notice has gone to GISTDA on identity, credentials, experience, and technical competence — including that we cannot confirm the legal name, and that the only located qualification is a community college degree. This call is limited to ISE's safety and procedural exposure.
 
 The end.
 
