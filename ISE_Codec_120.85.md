@@ -322,9 +322,9 @@ Do not take a known charlatan as your skipper — a man of unknown origin, unver
 ...Understood. I'll look at the papers. And the stand.
 
 **BIG BOSS**
-Independent inspection of the oxidiser hardware, cleanliness, and as-built versus drawings. Written confirmation that ISE students will not participate in ESS load or test. Review of AIAA 2008-4933 and the Scaled N₂O guidelines against the actual setup. Record of the three destroyed stands. No further institutional association until that is complete.
+I can only warn you. That is all that is left from here.
 
-A parallel notice has gone to GISTDA on identity, credentials, experience, and technical competence — including that we cannot confirm the legal name, and that the only located qualification is a community college degree. This call is limited to ISE's safety and procedural exposure.
+I am long gone. Far into the wind. Far into the seas.
 
 The end.
 

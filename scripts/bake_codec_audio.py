@@ -56,7 +56,6 @@ PRONUNCIATION = {
     "MTR": "M T R",
     "CIA": "C I A",
     "CUHAR": "C U HAR",
-    "GISTDA": "GISTDA",
 }
 
 SPEAKER_RE = re.compile(r"^\*\*([A-Z][A-Z0-9 ]*)\*\*\s*$", re.MULTILINE)
